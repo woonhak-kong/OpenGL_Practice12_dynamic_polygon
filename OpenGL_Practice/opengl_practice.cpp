@@ -241,7 +241,7 @@ int main(int argc, char** argv)
 	//the top-left corner of the display
 	glutInitWindowPosition(0, 0);
 
-	glutCreateWindow("GAME2012_A2_KongWoonhak, 101300258");
+	glutCreateWindow("Dynamic Polygon");
 
 	// background color is white
 	glClearColor(0.0f, 0.5f, 0.5f, 1.0f);
