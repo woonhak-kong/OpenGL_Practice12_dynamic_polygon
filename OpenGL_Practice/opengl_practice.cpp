@@ -1,13 +1,3 @@
-//***************************************************************************
-// GAME2012_A2_LastFirst.cpp by by Woonhak Kong - 101300258 (C) 2020 All Rights Reserved.
-//
-// Assignment 2 submission.
-//
-// Description:
-// This source file is for 3D Programming Assigmnet 1.
-// This assignment is for animation, perspective, and camera movement.
-//*****************************************************************************
-
 
 using namespace std;
 
